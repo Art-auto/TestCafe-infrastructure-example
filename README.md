@@ -1,5 +1,5 @@
-# cypress-infrastructure-example
-Project to practice automation testing configuration around the Cypress framework.
+# TestCafe-infrastructure-example
+Project to practice automation testing configuration around the TestCafe framework.
 
 Create React App is used as application under test 
 
